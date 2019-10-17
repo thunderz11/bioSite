@@ -1,0 +1,117 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(255,255,204);
+    background-image: url(_images/blur-bright-close-up-635002.jpg);
+    background-position: top;
+}
+
+div.intro {
+    width: 700px;
+    border: 1px solid darkred;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: moccasin;
+    margin-left: 50px;
+}
+
+div.education {
+    width: 700px;
+    border: 1px solid darkred;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: aquamarine;
+    margin-left: auto;
+    
+}
+
+div.hobbies {
+    width: 700px;
+    border: 1px solid darkred;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: aliceblue;    
+}
+
+div.favorites {
+    width: 400px;
+    border: 1px solid darkred;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: coral;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+img.main_photo {
+    float: left;
+    padding: 20px        
+}
+
+img.barn {
+    float: right;
+    width= 50px;
+    height: 175px;
+}
+
+header {
+    background-image: url(_images/background-2354151__340.jpg);
+    height: 160px
+}
+
+nav li {
+    display: inline;
+    padding: 20px;    
+}
+
+nav ul {
+    margin-top: -30px;
+    margin-right: 30px;
+}
+
+img.field {
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 500px;
+    padding: 10px;
+}
+
+img.hobbies {
+    width: 500px;
+    height: 300px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+img.teaching {
+    width: 500px;
+    height: 300px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 2px;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Vibes', sans-serif;
+    font-size: 60px;
+    margin-left: 60px;
+}
+
+h2 {
+    font-family: 'Quattrocento', sans-serif;
+}
+
+p {
+    font-family: 'Architects Daughter', sans-serif;
+    
+}
+
+a {
+    color: antiquewhite;
+}
